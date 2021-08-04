@@ -23,4 +23,4 @@ This data set contains information about 10,000 movies collected from The Movie 
 
 
 # Tools:
-Python, Pandas, Numpy, Matplotlib, StatsModels.
+Python, Pandas, Numpy, Matplotlib.
